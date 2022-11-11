@@ -1,0 +1,35 @@
+
+
+.banner{
+    background-image: url("../Img/baner.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     height: 300px;
+
+}
+.mainContainer{
+    background-color: rgb(46, 28, 28);
+    max-width: 1000px;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 0 0 8x blanchedalmond;
+}
+.title{
+    text-align: center;
+}
+.sectioncontainer{
+    margin-top: 30px;
+}
+.seeMore {
+    color: aqua;
+}
+.seeMore:hover {
+    color: blue;
+}
+.seeMore:active {
+  color: brown;
+}
+.seeMore:visited {
+    color: aliceblue;
+}
